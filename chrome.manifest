@@ -1,0 +1,2 @@
+content     suitethunder    content/
+overlay chrome://messenger/content/messenger.xul chrome://suitethunder/content/myhelloworld.xul
